@@ -5,3 +5,5 @@
 | GitHub | 맡은 일 |
 |---|---|
 | @rkddbs1 | 서버 |
+| @rlaxodlf | 화면 구성 |
+
