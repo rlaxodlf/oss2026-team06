@@ -6,6 +6,7 @@
 |---|---|
 | @rkddbs1 | 서버 |
 | @rlaxodlf | 화면 구성 |
+| @JunKimkw | (C 가 정함) |
 
 ## 규칙
 
